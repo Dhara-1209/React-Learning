@@ -4,7 +4,7 @@ class About extends React.Component{
     constructor(props){
         super(props);
         this.state={   
-            name: 'Hetvi Rabari',
+            name: 'Dhara Patel',
             learning: ['React', 'Vite', 'Routing', 'Components'],
         };
     }
