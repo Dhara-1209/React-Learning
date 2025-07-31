@@ -4,8 +4,8 @@ function Contact(){
             <h1>Contact</h1>
               <p>You can reach me at:</p>
               <ul>
-                <li>Email: hetvi@example.com</li>
-                <li>Phone: +91 98345 78953</li>
+                <li>Email: dhara6744@gmail.com</li>
+                <li>Phone: +91 97260 22673</li>
               </ul>
 
             <h3>Send me a message</h3>
