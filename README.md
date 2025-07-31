@@ -12,4 +12,3 @@ This is a **React-based web application** deployed live using **Netlify**. The p
 
 
 ## 🔗 **Live Demo:**  
-[https://grand-cranachan-8bcea7.netlify.app/](https://grand-cranachan-8bcea7.netlify.app/)
